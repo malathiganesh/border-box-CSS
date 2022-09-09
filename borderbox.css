@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+div {
+    background-color: black;
+    width: 300px;
+    border: 15px solid aqua;
+    padding: 50px;
+    margin: 20px;
+    color: aqua;
+    margin-left: 30%;
+    margin-top: 10%;
+  }
+  
